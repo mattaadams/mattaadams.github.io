@@ -101,14 +101,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: #795548;
+  color: #cc790c;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: #795548;
+  color: #cc790c;
 }
 
 img,
@@ -530,7 +530,7 @@ article {
 }
 
 .article-metadata a:hover {
-  color: #795548;
+  color: #cc790c;
 }
 
 .article-list-item {
@@ -864,8 +864,8 @@ footer a#back_to_top i {
  **************************************************/
 
 .btn-primary {
-  border-color: #795548 !important;
-  background: #795548 !important;
+  border-color: #cc790c !important;
+  background: #cc790c !important;
 }
 
 .btn-primary:hover,
@@ -873,7 +873,7 @@ footer a#back_to_top i {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: #795548 !important;
+  background: #cc790c !important;
 }
 
 .btn-light {
@@ -926,12 +926,12 @@ footer a#back_to_top i {
 }
 
 .btn-primary.btn-outline {
-  color: #795548 !important;
-  border-color: #795548 !important;
+  color: #cc790c !important;
+  border-color: #cc790c !important;
 }
 
 .btn-primary.btn-outline:focus {
-  color: #795548 !important;
+  color: #cc790c !important;
 }
 
 .btn-primary.btn-outline:active {
@@ -985,7 +985,7 @@ footer a#back_to_top i {
 }
 
 .navbar-default {
-  background: #795548;
+  background: #cc790c;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
 }
 
@@ -1047,7 +1047,7 @@ nav#navbar-main li {
 }
 
 .dropdown-menu {
-  background-color: #795548 !important;
+  background-color: #cc790c !important;
 }
 
 .dropdown-menu > li > a {
@@ -1064,13 +1064,13 @@ nav#navbar-main li {
 .dropdown-menu>li>a:hover {
   color: rgba(255,255,255,1);
   text-decoration: none;
-  background-color: #795548;
+  background-color: #cc790c;
 }
 
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:focus,
 .dropdown-menu > .active > a:hover {
-  color: #795548;
+  color: #cc790c;
   text-decoration: none;
   background-color: rgba(255,255,255,1);
   outline: 0;
@@ -1081,7 +1081,7 @@ nav#navbar-main li {
 .navbar-default .navbar-nav>.open>a:hover,
 .navbar-default .navbar-nav>.open>a:visited {
   color: rgba(255,255,255,0.6) !important;
-  background-color: #795548 !important;
+  background-color: #cc790c !important;
 }
 
 .navbar-default .navbar-brand {
@@ -1342,7 +1342,7 @@ body.dark {
 }
 
 .dark ul.share li a {
-  background-color: #795548;
+  background-color: #cc790c;
 }
 
 .dark table table {
@@ -1396,7 +1396,7 @@ body.dark {
 }
 
 .dark .card h4 a {
-  color: #795548;
+  color: #cc790c;
   border-bottom: solid 1px transparent;
 }
 
