@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other on Abhishek Verma</title>
+    <link>https://abhi608.github.io/tags/other/</link>
+    <description>Recent content in Other on Abhishek Verma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Abhishek Verma</copyright>
+    <lastBuildDate>Sun, 17 Dec 2017 18:06:49 +0530</lastBuildDate>
+    
+	<atom:link href="https://abhi608.github.io/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blockchain &amp; Consensus Protocols</title>
+      <link>https://abhi608.github.io/project/blockchain/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/blockchain/</guid>
+      <description>Mentor: Dr. Arnab Bhattacharya, IITK
+Stretch: Aug&amp;rsquo;17 - Nov&amp;rsquo;17
+Complete Project: Blockchain Technology
+Explored various aspects of blockchains. Major field of study was consensus protocols based on concepts like Proof of Work, Proof of Stake and Proof of Space. Also covered Algorand and did a case study of Bitcoin and ZCash.</description>
+    </item>
+    
+    <item>
+      <title>Chatbot Development</title>
+      <link>https://abhi608.github.io/project/chatbot/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/chatbot/</guid>
+      <description>Mentor: Programming Club, IITK
+Stretch: May&amp;rsquo;15 - July&amp;rsquo;15
+Complete Project: Chatbot
+Developed a chatbot, called IVANA which behaved like humans. Used the Natural Language Toolkit(NLTK) library of Python to implement NLP techniques. Designed and implemented three distinct algorithms using N-Grams, WordNet and Part-of-Speech tagging in english language. Database handling was done in MySQL. Also, a visual app was deployed for the same.</description>
+    </item>
+    
+    <item>
+      <title>Combinatorial Game Theory</title>
+      <link>https://abhi608.github.io/project/combinatorial/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/combinatorial/</guid>
+      <description>Mentor: Dr. Rajat Mittal, IITK
+Stretch: Sep&amp;rsquo;15 - Nov&amp;rsquo;15
+Complete Project: Combinatorial Game Theory
+Studied the basic concepts of combinatorial game theory and the analysis of various games like Nim, Hex and Tic Tac Toe. Studied the mathematical treatment of games and some of the results that can be derived from it.</description>
+    </item>
+    
+    <item>
+      <title>Development of Prutor - An interface to indroduce people to the world of programming</title>
+      <link>https://abhi608.github.io/project/prutor/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/prutor/</guid>
+      <description>Mentor: Dr. Amey Karkare, IITK
+Stretch: Jan&amp;rsquo;17 - Apr&amp;rsquo;17
+Complete Project: Prutor Interface
+Added admin side modules and features to Prutor, a Node.js platform used to teach programming to 800 first year students every year in IIT Kanpur. Worked on Node.js, SQL, HTML and CSS like technologies. Used docker to run all the services.</description>
+    </item>
+    
+    <item>
+      <title>Multichain for Medical Records</title>
+      <link>https://abhi608.github.io/project/transaction/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/transaction/</guid>
+      <description>Mentor: Dr. Satyadev Nandakumar, IITK &amp;amp; Dr. Piyush P. Kurur, IITK
+Stretch: Aug&amp;rsquo;17 - Nov&amp;rsquo;17
+Complete Project: Blockchain based Smart Transaction Platform
+Studied about decentralised databases, database synchronisation, encryption techniques, proof of work, verification rules used by miners and importance of round robin scheduling for miners. Built the database of the platform using MultiChain library incorporating features to create blockchains, streams and perform transactions. Backend was JavaScript based and frontend was HTML5/CSS based.</description>
+    </item>
+    
+    <item>
+      <title>Security of Zoobar Server</title>
+      <link>https://abhi608.github.io/project/zoobar/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/zoobar/</guid>
+      <description>Mentor: Dr. Sandeep Shukla, IITK
+Stretch: Jan&amp;rsquo;18 - Apr&amp;rsquo;18
+Complete Project: Security of Zoobar Server
+Found, exploited and fixed stack overflow, format string, DoS vulnerebilities and various other network layer attacks in the zoobar server. Crafted and demonstrated XSS, SQL injections and numerous browser based attacks on the server using scripts written in C++ and Python.</description>
+    </item>
+    
+  </channel>
+</rss>

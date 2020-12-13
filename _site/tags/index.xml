@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Matt Adams</title>
+    <link>https://mattaadams.github.io/tags/</link>
+    <description>Recent content in Tags on Matt Adams</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Matt Adams</copyright>
+    <lastBuildDate>Sun, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mattaadams.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>https://mattaadams.github.io/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mattaadams.github.io/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>Computer-systems</title>
+      <link>https://mattaadams.github.io/tags/computer-systems/</link>
+      <pubDate>Sun, 17 Dec 2020 18:06:49 +0530</pubDate>
+      
+      <guid>https://mattaadams.github.io/tags/computer-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://mattaadams.github.io/tags/database/</link>
+      <pubDate>Sun, 17 Dec 2020 18:06:49 +0530</pubDate>
+      
+      <guid>https://mattaadams.github.io/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://mattaadams.github.io/tags/hugo/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://mattaadams.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internship</title>
+      <link>https://mattaadams.github.io/tags/internship/</link>
+      <pubDate>Sun, 17 Dec 2020 17:51:40 +0530</pubDate>
+      
+      <guid>https://mattaadams.github.io/tags/internship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll</title>
+      <link>https://mattaadams.github.io/tags/jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0530</pubDate>
+      
+      <guid>https://mattaadams.github.io/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine-learning</title>
+      <link>https://mattaadams.github.io/tags/machine-learning/</link>
+      <pubDate>Sun, 17 Dec 2020 18:06:49 +0530</pubDate>
+      
+      <guid>https://mattaadams.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>https://mattaadams.github.io/tags/other/</link>
+      <pubDate>Sun, 17 Dec 2020 18:06:49 +0530</pubDate>
+      
+      <guid>https://mattaadams.github.io/tags/other/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

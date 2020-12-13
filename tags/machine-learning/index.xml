@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine-learning on Abhishek Verma</title>
+    <link>https://abhi608.github.io/tags/machine-learning/</link>
+    <description>Recent content in Machine-learning on Abhishek Verma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Abhishek Verma</copyright>
+    <lastBuildDate>Sun, 17 Dec 2017 18:06:49 +0530</lastBuildDate>
+    
+	<atom:link href="https://abhi608.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning Atari Game strategies using Deep Reinforcement Learning</title>
+      <link>https://abhi608.github.io/project/atari/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/atari/</guid>
+      <description>Mentor: Dr. Piyush Rai, IITK
+Stretch: Oct&amp;rsquo;16 - Nov&amp;rsquo;16
+Complete Project: Deep Reinforcement Learning
+Created an AI agent which learnt to play a number of Atari Games and defeated Atari hard-coded AIs, using same set of hyper parameters. Implemented Q Learning algorithm described in seminal papers by Google Deepmind and used a Convolutional Double Dueling Deep Neural Q-network to approximate the Q value function. Used Bellman Equation and followed deep policy network based approach to implement Monte Carlo policy gradients.</description>
+    </item>
+    
+    <item>
+      <title>Stacked Attention Network for Visual Question Answering</title>
+      <link>https://abhi608.github.io/project/vqa/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/vqa/</guid>
+      <description>Mentor: Dr. Vinay P. Namboodiri, IITK
+Stretch: Aug&amp;rsquo;17 - Nov&amp;rsquo;17
+Complete Project: Stacked Attention Network
+Modified SANs for VQA using Visual Grounding of Phrases. SANs use semantic representation of a question as query to search for the regions in an image that are related to the answer. Implemented a multiple-layer SAN in which we query an image multiple times to infer the answer progressively.</description>
+    </item>
+    
+    <item>
+      <title>Task oriented natural language end-to-end dialog system</title>
+      <link>https://abhi608.github.io/project/task-oriented-chatbot/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/task-oriented-chatbot/</guid>
+      <description>Mentor: Dr. Harish Karnick, IITK
+Stretch: Jan&amp;rsquo;18 - Apr&amp;rsquo;18
+Complete Project: Task Oriented Chatbot
+Teaching machines to converse naturally with humans to achieve specific tasks is very challenging. Currently, developing task oriented dialogue systems require specific hand-crafting. Also obtaining the dataset may be very cumbersome and costly. As a result, it is very difficult to scale them to new dimensions.The first implementation targets the first problem of specific hand-crafting. The second implementation improves it further by considerably reducing the data required.</description>
+    </item>
+    
+  </channel>
+</rss>
