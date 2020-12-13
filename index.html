@@ -27,23 +27,6 @@
   
   <link rel="stylesheet" href="/styles.css">
   
-
-  
-    <script>
-      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-      ga('create', 'UA-111705777-1', 'auto');
-      ga('require', 'eventTracker');
-      ga('require', 'outboundLinkTracker');
-      ga('require', 'urlChangeTracker');
-      ga('send', 'pageview');
-    </script>
-    <script async src="//www.google-analytics.com/analytics.js"></script>
-    
-    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
-    
-  
-
-  
   <link rel="alternate" href="https://mattaadams.github.io/index.xml" type="application/rss+xml" title="Matt Adams">
   <link rel="feed" href="https://mattaadams.github.io/index.xml" type="application/rss+xml" title="Matt Adams">
   
@@ -106,9 +89,6 @@
             
           </a>
         </li>
-
-        
-        
         
 
         <li class="nav-item">
@@ -118,7 +98,14 @@
             
           </a>
         </li>
-          
+         
+        <li class="nav-item">
+          <a href="/#resume" data-target="#resume">
+            
+            <span>Resume</span>
+            
+          </a>
+        </li>        
 
         <li class="nav-item">
           <a href="/#contact" data-target="#contact">
@@ -154,8 +141,8 @@
     <div id="profile">
 
       
-      <div class="portrait" style="background-image: url('https://mattaadams.github.io/img/matt_adams.JPG');"></div>
-      <meta itemprop="image" content="https://mattaadams.github.io/img/matt_adams.JPG">
+      <div class="portrait" style="background-image: '../img/matt_face.jpg';"></div>
+      <meta itemprop="image" content="/img/matt_face.jpg">
       
 
       <div class="portrait-title">
@@ -218,7 +205,11 @@
           
           <li>Natural Language Processing</li>
           
-          <li>Visual Recognition</li>
+          <li>Computer Vision</li>
+
+          <li>Big Data</li>
+
+          <li>UX Design</li>
 
           
         </ul>
@@ -274,7 +265,7 @@
 
     
     
-    <span class="hidden default-project-filter">.computer-systems</span>
+    <span class="hidden default-project-filter">.research-projects</span>
     
 
     
@@ -284,11 +275,11 @@
         <div class="btn-toolbar">
           <div class="btn-group">
             
-              <a href="#" data-filter=".computer-systems" class="btn btn-primary btn-large active">Research Projects</a>
+              <a href="#" data-filter=".research-projects" class="btn btn-primary btn-large active">Research Projects</a>
             
-              <a href="#" data-filter=".database" class="btn btn-primary btn-large">Class Projects</a>
+              <a href="#" data-filter=".class-projects" class="btn btn-primary btn-large">Class Projects</a>
                         
-              <a href="#" data-filter=".internship" class="btn btn-primary btn-large">Work Experience</a>
+              <a href="#" data-filter=".work-experience" class="btn btn-primary btn-large">Work Experience</a>
             
               <a href="#" data-filter=".other" class="btn btn-primary btn-large">Other</a>
             
@@ -297,8 +288,9 @@
       </div>
     </div>
 
-      
-      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item machine-learning">
+    <div class="row isotope projects-container js-layout-masonry">
+
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item research-projects">
         <div class="card">
           
           <a href="https://mattaadams.github.io/project/PropyleneOxide/" title="" class="card-image hover-overlay"
@@ -310,12 +302,103 @@
             <h4><a href="https://mattaadams.github.io/project/PropyleneOxide/" >Accelerated Catalyst Discovery for Selective Propylene Epoxidation
             </a></h4>
             <div class="card-desription">
-              <p>Developed an Active Learning Framework to Accelerate Atomic Simulations</p>
+              <p>Active Learning</p>
             </div>
           </div>
         </div>
       </div>
       
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item research-projects">
+        <div class="card">
+          
+          <a href="https://mattaadams.github.io/project/al_mlp/" title="" class="card-image hover-overlay"
+             >
+            <img src="/img/almlpfig.png" alt="" class="img-responsive">
+          </a>
+          
+          <div class="card-text">
+            <h4><a href="https://mattaadams.github.io/project/al_mlp/" >Active Learning for Machine-learned potentials
+            </a></h4>
+            <div class="card-desription">
+              <p>Developed an Active Learning Framework to Accelerate Atomic Simulations</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item class-projects">
+        <div class="card">
+          
+          <a href="https://mattaadams.github.io/project/twitter_bots/" title="" class="card-image hover-overlay"
+             >
+            <img src="/img/Twitter_bots.jpg" alt="" class="img-responsive">
+          </a>
+          
+          <div class="card-text">
+            <h4><a href="https://mattaadams.github.io/project/twitter_bots/" >Twitter Bot Detection
+            </a></h4>
+            <div class="card-desription">
+              <p>Developed and tested different machine learning approaches to detect twitter bots</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item class-projects">
+        <div class="card">
+          
+          <a href="https://mattaadams.github.io/project/adsorbate_energy/" title="" class="card-image hover-overlay"
+             >
+            <img src="/img/adsorbate_energy_pred.png" alt="" class="img-responsive">
+          </a>
+          
+          <div class="card-text">
+            <h4><a href="https://mattaadams.github.io/project/adsorbate_energy/" >Predicting Adsorbate Binding Energies 
+            </a></h4>
+            <div class="card-desription">
+              <p>Developed a workflow to generate atomic structures and predict adsorbate energy</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item work-experience">
+        <div class="card">
+          
+          <a href="https://mattaadams.github.io/project/ornl_internship/" title="" class="card-image hover-overlay"
+             >
+            <img src="/img/ORNL.jpg" alt="" class="img-responsive">
+          </a>
+          
+          <div class="card-text">
+            <h4><a href="https://mattaadams.github.io/project/ornl_internship/" >ORNL Internship
+            </a></h4>
+            <div class="card-desription">
+              <p>Worked on accelerating Atomic Simulations</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item other">
+        <div class="card">
+          
+          <a href="https://mattaadams.github.io/project/placeholder/" title="" class="card-image hover-overlay"
+             >
+            <img src="/img/CAT_CAT.jpg" alt="" class="img-responsive">
+          </a>
+          
+          <div class="card-text">
+            <h4><a href="https://mattaadams.github.io/project/placeholder/" >My cat
+            </a></h4>
+            <div class="card-desription">
+              <p>Placeholder Template</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+     
     
   </div>
 </div>
@@ -324,6 +407,40 @@
   </section>
   
   
+  <section id="resume" class="home-section">
+    <div class="container">
+      
+
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h1>Resumé</h1>
+    
+  </div>
+  <div class="col-xs-12 col-md-8">
+    
+
+    <ul class="fa-ul" itemscope>
+
+
+      <li>
+        You can find my Resumé <a href="/downloads/MATTA_ADAMS.pdf" download>here</a></span>
+      </li>
+      
+      
+
+    </ul>
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+
+
+
   <section id="contact" class="home-section">
     <div class="container">
       

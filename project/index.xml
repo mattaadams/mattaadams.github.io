@@ -6,31 +6,34 @@
     <description>Recent content in Projects on Matt Adams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Matt Adams</copyright>
-    <lastBuildDate>Sun, 17 Dec 2017 18:06:49 +0530</lastBuildDate>
+    <copyright>&amp;copy; 2020 Matt Adams</copyright>
+    <lastBuildDate>Sun, 13 Dec 2020 18:06:49 +0530</lastBuildDate>
     
 	<atom:link href="https://mattaadams.github.io/project/index.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>AL Propylene Oxide </title>
-      <link>https://mattaadams.github.io/project/Propylene Oxide/</link>
+      <title>Accelerating Catalyst Discovery for Propylene Epoxidation </title>
+      <link>https://mattaadams.github.io/project/PropyleneOxide/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
       
-      <guid>https://mattaadams.github.io/project/Propylene Oxide/</guid>
-      <description>Mentor: Dr. Piyush Rai, IITK
-Stretch: Oct&amp;rsquo;16 - Nov&amp;rsquo;16
+      <guid>https://mattaadams.github.io/project/PropyleneOxide/</guid>
+      <description>Mentor: Dr. ZU
+Stretch: Jan&amp;rsquo;20 - Dec&amp;rsquo;20
 Complete Project: 
 AL Propylene Oxide.</description>
     </item>
     
     <item>
-      <title>Multichain for Medical Records</title>
-      <link>https://mattaadams.github.io/project/transaction/</link>
+      <title>Active Learning for Machine-Learned Potentials </title>
+      <link>https://mattaadams.github.io/project/al_mlp/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
       
-      <guid>https://mattaadams.github.io/project/transaction/</guid>
-      <description>Mentor: Dr. Satyadev Nandakumar, IITK &amp;amp; Dr. Piyush P. Kurur, IITK
-
-    
+      <guid>https://mattaadams.github.io/project/al_mlp/</guid>
+      <description>Mentor: Dr. ZU
+Stretch: Aug&amp;rsquo;20 - Dec&amp;rsquo;20
+Complete Project: 
+AL_MLP.</description>
+    </item>
+  
   </channel>
 </rss>
