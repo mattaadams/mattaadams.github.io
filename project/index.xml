@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Matt Adams</copyright>
-    <lastBuildDate>Sun, 13 Dec 2020 18:06:49 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 5 Feb 2022 18:06:49 +0530</lastBuildDate>
     
 	<atom:link href="https://mattaadams.github.io/project/index.xml" rel="self" type="application/rss+xml" />
 
@@ -33,6 +33,56 @@ AL Propylene Oxide.</description>
 Time: Aug&amp;rsquo;20 - Dec&amp;rsquo;20
 Complete Project: 
 AL_MLP.</description>
+    </item>
+
+    <item>
+      <title>Twitter Bot Detection </title>
+      <link>https://mattaadams.github.io/project/twitter_bots/</link>
+      <pubDate>Sun, 13 Dec 2020 18:06:49 +0530</pubDate>
+      
+      <guid>https://mattaadams.github.io/project/twitter_bots/</guid>
+      <description>
+Time: Aug&amp;rsquo;19 - Dec&amp;rsquo;19
+Complete Project: 
+Twitter Bots</description>
+    </item>
+
+
+    <item>
+      <title>Predicting Adsorbate Binding Energy </title>
+      <link>https://mattaadams.github.io/project/adsorbate_energy/</link>
+      <pubDate>Sun, 13 Dec 2020 18:06:49 +0530</pubDate>
+      
+      <guid>https://mattaadams.github.io/project/adsorbate_energy/</guid>
+      <description>
+Time: Mar&amp;rsquo;20 - May&amp;rsquo;20
+Complete Project: 
+Adsobrate Energy prediction</description>
+    </item>
+
+
+    <item>
+      <title>Oak Ridge National Lab </title>
+      <link>https://mattaadams.github.io/project/ornl_internship/</link>
+      <pubDate>Sun, 13 Dec 2020 18:06:49 +0530</pubDate>
+      
+      <guid>https://mattaadams.github.io/project/ornl_internship/</guid>
+      <description>
+Time: Jun&amp;rsquo;19 - Aug&amp;rsquo;19
+Complete Project: 
+ORNL</description>
+    </item>
+
+    <item>
+      <title> Environmental Protection Agency </title>
+      <link>https://mattaadams.github.io/project/epa/</link>
+      <pubDate>Sun, 13 Dec 2020 18:06:49 +0530</pubDate>
+      
+      <guid>https://mattaadams.github.io/project/epa/</guid>
+      <description>
+Time: Dec&amp;rsquo;21 - Dec&amp;rsquo;22
+Complete Project: 
+Environmental Protection Agency</description>
     </item>
   
   </channel>

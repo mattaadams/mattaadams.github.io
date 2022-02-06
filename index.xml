@@ -11,20 +11,111 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>PO test title</title>
+      <title>Accelerating Catalyst Discovery</title>
       <link>https://mattaadams.github.io/project/PropyleneEpoxide/</link>
       <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
       
       <guid>https://mattaadams.github.io/project/PropyleneEpoxide/</guid>
       <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Zu&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Jan&amp;rsquo;20 - Dec&amp;rsquo;20&lt;/p&gt;
+        &lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Jan&amp;rsquo;20 - Dec&amp;rsquo;20&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/mattaadams/C&#34; target=&#34;_blank&#34;&gt;PropyleneEpoxide AL&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/mattaadams/&#34; target=&#34;_blank&#34;&gt;PropyleneEpoxide&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Description test.&lt;/p&gt;
-</description>
+        &lt;p&gt;Online and Offline Active Learning.&lt;/p&gt;
+      </description>
+
     </item>
+
+    <item>
+      <title>Active Learning</title>
+      <link>https://mattaadams.github.io/project/al_mlp/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://mattaadams.github.io/project/al_mlp/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Zu&lt;/p&gt;
+
+        &lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Jan&amp;rsquo;20 - Dec&amp;rsquo;20&lt;/p&gt;
+
+        &lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/mattaadams/&#34; target=&#34;_blank&#34;&gt;al_mlp&lt;/a&gt;&lt;/p&gt;
+
+        &lt;p&gt;an active learning package for conducting delta machine learning.&lt;/p&gt;
+      </description>
+
+    </item>
+
+    <item>
+      <title>Detecting Twitter Bots</title>
+      <link>https://mattaadams.github.io/project/twitter_bots/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://mattaadams.github.io/project/twitter_bots/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Zu&lt;/p&gt;
+
+        &lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Jan&amp;rsquo;20 - Dec&amp;rsquo;20&lt;/p&gt;
+
+        &lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/mattaadams/&#34; target=&#34;_blank&#34;&gt;twitter_bots&lt;/a&gt;&lt;/p&gt;
+
+        &lt;p&gt;Worked as a group of three members to implement multiple classification algorithms to distinguish Twitter bots from human accounts. 
+        These algorithms, namely logistic regression, KNN, MLP, SVM, Random Forest and XGBoost, are tested on continuous features including account age, 
+        number of followers, etc. To access individual user information from Twitter, we used the Python library Tweepy, which provides access to the twitter API.&lt;/p&gt;
+      </description>
+
+    </item>
+
+    <item>
+      <title>Accelrating Catalyst Discovery</title>
+      <link>https://mattaadams.github.io/project/adsorbate_energy/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://mattaadams.github.io/project/adsorbate_energy/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Zu&lt;/p&gt;
+
+        &lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Jan&amp;rsquo;20 - Dec&amp;rsquo;20&lt;/p&gt;
+
+        &lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/mattaadams/&#34; target=&#34;_blank&#34;&gt;adsorbate_energy&lt;/a&gt;&lt;/p&gt;
+
+        &lt;p&gt;Automatically generated atomic structures were transformed into 
+        machine-learnable input features (SOAP descriptors) which were then used to predict the binding energies of Carbon.&lt;/p&gt;
+      </description>
+
+    </item>
+
+    <item>
+      <title>ORNL Internship</title>
+      <link>https://mattaadams.github.io/project/ornl_internship/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://mattaadams.github.io/project/ornl_internship/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Zu&lt;/p&gt;
+
+        &lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Jan&amp;rsquo;20 - Dec&amp;rsquo;20&lt;/p&gt;
+
+        &lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/mattaadams/&#34; target=&#34;_blank&#34;&gt;ornl_internship&lt;/a&gt;&lt;/p&gt;
+
+        &lt;p&gt;Constructed a unique framework through combining density functional tight binding with 
+        metadynamics which accelerated scanning of the free energy profile of a system by a factor of 1000&lt;/p&gt;
+      </description>
+
+    </item>
+
+    <item>
+      <title>EPA CCTE</title>
+      <link>https://mattaadams.github.io/project/epa/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://mattaadams.github.io/project/epa/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mentor:&lt;/em&gt; Dr. Zu&lt;/p&gt;
+
+        &lt;p&gt;&lt;em&gt;Stretch:&lt;/em&gt; Jan&amp;rsquo;20 - Dec&amp;rsquo;20&lt;/p&gt;
+
+        &lt;p&gt;&lt;em&gt;Complete Project:&lt;/em&gt; &lt;a href=&#34;https://github.com/mattaadams/&#34; target=&#34;_blank&#34;&gt;epa&lt;/a&gt;&lt;/p&gt;
+
+        &lt;p&gt;Worked on Data Driven methods in the Center for Computational Toxicology and Exposure (CCTE)&lt;/p&gt;
+      </description>
+
+    </item>
+
     
     
   </channel>
