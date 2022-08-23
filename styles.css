@@ -20,9 +20,8 @@
   display: table;
 }
 
-.wall{
+.wall {
   border: 2px solid rgb(0, 0, 0);
-
 }
 h2.remove-whitespace {
   text-align: center;
@@ -31,15 +30,12 @@ h2.remove-whitespace {
   height: 0px;
 }
 
-
 .img_column {
-  
   float: left;
   width: 50%;
   padding: 5px;
 }
 .img_row::after {
-
   content: "";
   clear: both;
   display: table;
@@ -590,8 +586,7 @@ article {
 
 .article-style img,
 .article-style video {
-  box-shadow: 1px 1px 0px #edefed, -1px -1px 0px #edefed, 1px -1px 0px #edefed,
-    -1px 1px 0px #edefed;
+  box-shadow: 1px 1px 0px #edefed, -1px -1px 0px #edefed, 1px -1px 0px #edefed, -1px 1px 0px #edefed;
   margin-left: auto;
   margin-right: auto;
   margin-top: 60px;
