@@ -80,7 +80,10 @@ p {
 
 /* Lists */
 ul,
-ol,
+ol li {
+  font-size: 18px;
+}
+
 dl {
   margin-top: 0;
   margin-bottom: 1rem;
